@@ -23,7 +23,8 @@ export function Hero() {
           poster="/media/hero.jpg"
           preload="metadata"
         >
-          <source src="/media/hero-loop.mp4" type="video/mp4" />
+          {/* Boomerang-Loop (vorwärts + rückwärts) — kein abrupter Sprung */}
+          <source src="/media/hero-boomerang.mp4" type="video/mp4" />
         </video>
         {/* Interaktive Aurora + Cursor-Spotlight + Gitter */}
         <AuroraBackground />
