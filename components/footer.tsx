@@ -17,7 +17,7 @@ export function Footer() {
             >
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
-                src="/media/logo.png"
+                src="/media/Icon_SSM.png"
                 alt={content.meta.siteName}
                 width={32}
                 height={32}
