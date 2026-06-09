@@ -1,27 +1,108 @@
-Firma,Ort,Branche,Website vorhanden,Website-URL,Website-Qualitaet,Hauptproblem,Umsetzung,Komplexitaet,Paket,Preis,Prioritaet,Telefon,Ansprechpartner,Status,Aufhaenger,Notizen
-Baesslerhof,Freiberg a.N.,Hofladen/Direktvermarkter,Nein,,keine,Keine Website - nur Verzeichniseintraege,einfach,S,Starter,2490,A,,Fritz B. (Fritz.b@gmx.de),Recherchiert,Oeffnungszeiten & Rohmilch-/Regiomat-Automat online sichtbar machen,Komplett ohne eigene Praesenz - Onepager mit Automaten & Anfahrt reicht
-Bauernhof Weissinger,Freiberg a.N.,Hofladen/Direktvermarkter,Nein,,keine,Keine Website,einfach,S,Starter,2490,A,07141 271085,Birgit & Martin Weissinger,Recherchiert,Eigene Website + Google Maps,Familienbetrieb Milchautomat/Hofladen - klarer Bedarf
-Breitenbuechers Direktvermarktung,Freiberg a.N.,Hofladen/Direktvermarkter,Nein,facebook.com/breitenbuechershuehnervilla,keine,Keine eigene Website - nur Facebook,einfach,S,Starter,2490,A,07141 707837,breitenbuechers-dv@gmx.de,Recherchiert,Produkte & Anfahrt online,Starke Story "Huehnervilla" - ideal fuer Onepager statt nur FB
-Hofgut Beihingen,Freiberg a.N.,Hofladen/Direktvermarkter,Nein,,keine,Keine Website,einfach,S,Starter,2490,A,07141 72040,gut-beihingen@gmx.de,Recherchiert,Story + Produkte praesentieren,Hofladen mit Eierautomat/Fleischverkauf - groesserer Betrieb
-Cafe Bar La Plaza,Freiberg a.N.,Gastronomie,Ja,la-plaza-freiberg.9gg.de,schwach,Gratis-Baukasten (9gg.de) - kein modernes Design,einfach,S,Starter,2490,A,07141 7968623,,Recherchiert,Speisekarte online + mobil + Reservierung,Nur kostenloser Baukasten - klares Upgrade-Argument
-Eiscafe Venezia,Freiberg a.N.,Gastronomie,Ja,eisvenezia.eatbu.com,mittel,DISH-Template-Subdomain - keine eigene Domain,mittel,S,Starter,2490,B,07141 9475895,,Recherchiert,Eigene Domain + individuelles Design statt DISH-Template,Responsiv/HTTPS aber generisch & austauschbar
-Blue Diner,Freiberg a.N.,Gastronomie,Ja,blue-freiberg.de,gut,Kaum Bedarf - hat moderne Seite + Online-Shop,schwer,S,Starter,2490,C,07141 2990588,info@blue-freiberg.de,Recherchiert,Allenfalls Text-/Feinschliff,Moderne eigene Website + Lieferando - schwacher Hebel
-Gaststaette Rose Beihingen,Freiberg a.N.,Gastronomie,Nein,,keine,Keine Website,einfach,S,Starter,2490,A,Tel. unklar - Verzeichnis pruefen,Mehmet Avsar,Recherchiert,Speisekarte + Reservierung,Kleine Gaststaette ohne Online-Auftritt - Onepager
-Dr. Christine Weiss / Birgit Weiss,Freiberg a.N.,Arzt/Praxis,Nein,kinderaerzte-im-netz.de (Portal),schwach,Keine eigene Website - nur Portal-Template,einfach,M,Business,4990,A,07141 271718,Kinder- & Jugendmedizin,Recherchiert,Sprechzeiten + Online-Termin + Barrierefreiheit,Nur Verbands-Portal + web.de-Mail - Doctolib vorhanden
-Dr. Karl-Heinz Aupperle,Freiberg a.N.,Arzt/Praxis,Nein,,keine,Keine eigene Website,einfach,M,Business,4990,A,07141 72422,Frauenheilkunde/Gynaekologie,Recherchiert,Praxiswebsite + Termininfo,Nur Drittanbieter-Listings (Doctolib/jameda)
-Dr. Uta Willimowski,Freiberg a.N.,Arzt/Praxis,Nein,,keine,Keine Website + kein Online-Termin,einfach,M,Business,4990,A,07141 9743731,Allgemeinmedizin/Homoeopathie,Recherchiert,Sprechzeiten aktuell + mobile Suche,Nur Branchenverzeichnisse - kompletter Bedarf
-Dr. Uwe Kuhn,Freiberg a.N.,Arzt/Praxis,Ja,praxis-am-zentrum.de,gut,Kaum Bedarf - moderne Seite (Stand 2024),schwer,M,Business,4990,C,07141 72082,Praxis am Zentrum (Kuhn/Geldner/Radau-Haug),Recherchiert,Allenfalls kleinere Optimierungen,Online-Buchung via dein-arzt.de bereits eingebunden
-Dr. Rainer und Ulrike Thomas,Freiberg a.N.,Arzt/Praxis,Nein,,keine,Keine eigene Website,einfach,M,Business,4990,A,07141 271640,Innere Medizin/Allgemeinmedizin,Recherchiert,Teamseite + Online-Termin,Gemeinschaftspraxis = Budget - nur Doctolib-Listing
-Fischer GmbH,Freiberg a.N.,Handwerk/Bau,Ja,fischer-bauen.de,schwach,Veraltet - Tabellen-Layout nicht mobil kein Formular,einfach,M,Business,4990,A,07141 643196-0,Bauunternehmung Tief-/Hochbau,Recherchiert,Mobile Optimierung + Anfrageformular,Altes Worldsoft-CMS Optik frueh-2000er - Top-Lead
-Flaschnerei Mereu,Freiberg a.N.,Handwerk/Bau,Ja,flaschnerei-mereu.de,schwach,Seite offline/instabil (HTTP 503) - kein HTTPS,einfach,M,Business,4990,A,07141 780780,Flaschner/Spengler & Haustechnik,Recherchiert,Stabile moderne Seite + Notdienst-CTA,Server durchgehend nicht erreichbar - starkes Negativsignal
-GUEPA Bauelemente,Freiberg a.N.,Handwerk/Bau,Ja,guepa.de,mittel-gut,Modern (WordPress 2026) - nur Anfrageformular fehlt,schwer,M,Business,4990,C,07141 73180,Fenster/Tueren/Sonnenschutz,Recherchiert,Upsell Anfrageformular,Aktuelles Copyright 2026 HTTPS Social-Media - wenig Hebel
-Elektro Hesser,Freiberg a.N.,Handwerk/Bau,Ja,elektro-hesser.de,gut,Bereits modern - responsive + Formular,schwer,M,Business,4990,C,07141 71073,Elektriker (e-masters),Recherchiert,Kein akuter Bedarf,Moderne Seite Kontaktformular vorhanden - kaum Hebel
-Scholz GmbH,Freiberg a.N.,Handwerk/Bau,Ja,scholzgmbh.de,schwach,Veraltet nicht mobil kein Formular - kein HTTPS,einfach,M,Business,4990,A,07141 9919770,Heizung/Sanitaer/Flaschnerei (SHK),Recherchiert,Modernes Design + CTA,"ACHTUNG: Seite zeigt ""Wir bauen aktuell um"" - vor Ansprache verifizieren"
-FAN-Immoservice,Freiberg a.N.,Immobilien/Hausverwaltung,Ja,fan-immoservice.de,mittel,Standard-WordPress-Theme - kein Leadformular,mittel,M,Business,4990,B,0176 47390565,Holger Guettich,Recherchiert,Leadformular + Referenzen + lokale SEO,Theme Poseidon konservativ - Redesign/Lead-Gen als Aufhaenger
-Hesperia Immobilien,Freiberg a.N.,Immobilien/Hausverwaltung,Nein,hesperia-immo.de (geparkt),keine,Keine aktive Website (Domain geparkt),einfach,M,Business,4990,A,07141 6423985,Marc Baeuerle,Recherchiert,Objektformular + Bewertungen,Domain nur geparkt - Aktivitaet des Betriebs vorab telefonisch pruefen
-WHG Immobilien,Freiberg a.N.,Immobilien/Hausverwaltung,Ja,whg-immobilien.de,gut,Kaum Bedarf - modern & gepflegt,schwer,M,Business,4990,C,07141 75501,Heidi Pfuderer,Recherchiert,Allenfalls Detailoptimierung,Responsive WebP Kontaktformular DEKRA-Badges Blog - kaum Hebel
-Broesamle Hausverwaltung,Freiberg a.N.,Immobilien/Hausverwaltung,Ja,hv-broesamle.de,schwach,Kein HTTPS nicht mobil veraltet,einfach,M,Business,4990,A,07141 6425200,info@hv-broesamle.de (GmbH),Recherchiert,SSL + Mobile + Vertrauenssignale,Nur HTTP keine SSL schlechte Google-Bewertungen - harte Argumente
-ProLog Pflege,Freiberg a.N.,Pflege/Betreuung,Ja,prolog-pflegedienst.de,gut,Kaum Bedarf - modern & agenturbetreut,schwer,M,Business,4990,C,07141 3759050,Kinderintensivpflege ca. 35 MA,Recherchiert,Kein akuter Bedarf,Copyright 2026 Testimonials CTA - von Agentur blomo.tech gebaut
-Welacare,Freiberg a.N.,Pflege/Betreuung,Ja,welacare.de,mittel-gut,Modern - aber Leadformular/Conversion optimierbar,mittel,M,Business,4990,B,0162 4695737,Joanne Wieland,Recherchiert,Leadformular statt nur E-Mail,24h-Betreuungsvermittlung UG - kleines Budget moeglich
-curando,Freiberg a.N.,Pflege/Betreuung,Ja,curando.de,gut,Kaum Bedarf - moderne Seite mit Lead-Erfassung,schwer,M,Business,4990,C,07141 9743840,Physiotherapie (van Welzen),Recherchiert,Kein akuter Bedarf,Ist Physiotherapie nicht Pflege - mehrere Formulare vorhanden
-Pudel Orthopaedie-Schuhtechnik,Freiberg a.N.,Gesundheit/Handwerk,Ja,pudel-ortho.de,schwach,Veraltetes CMS (TYPO3) kein Formular,mittel-schwer,M,Business,4990,B,07141 1464730,Filiale (Kette - Zentrale 07141 70299-0),Recherchiert,Leistungen + Termin + Bilder,Filiale einer Kette - Entscheider sitzt nicht in Freiberg
+Ort,Firma,Branche,Website-Status,Komplexitaet,Paket,Preis,Telefon,Ansprechpartner/Adresse,Aufhaenger,Status
+Freiberg a.N.,Baesslerhof,Hofladen/Direktvermarkter,keine,S,Starter,2490,E-Mail Fritz.b@gmx.de,Fritz B. - Mittlerer Weg 1,Komplett ohne Online-Praesenz - Onepager mit Automaten & Oeffnungszeiten,Neu
+Freiberg a.N.,Bauernhof Weissinger,Hofladen/Direktvermarkter,keine,S,Starter,2490,07141 271085,Birgit & Martin Weissinger,Milchautomat & Hofladen online sichtbar machen,Neu
+Freiberg a.N.,Breitenbuechers Direktvermarktung,Hofladen/Direktvermarkter,nur Facebook,S,Starter,2490,07141 707837,breitenbuechers-dv@gmx.de,Starke Story Huehnervilla verdient eigene Seite statt nur FB,Neu
+Freiberg a.N.,Hofgut Beihingen,Hofladen/Direktvermarkter,keine,S,Starter,2490,07141 72040,gut-beihingen@gmx.de,Hofladen + Eierautomat praesentieren,Neu
+Freiberg a.N.,Cafe Bar La Plaza,Gastronomie,Gratis-Baukasten,S,Starter,2490,07141 7968623,Marktplatz 9,Nur Baukasten 9gg.de - echtes Design + Reservierung,Neu
+Freiberg a.N.,Gaststaette Rose Beihingen,Gastronomie,keine,S,Starter,2490,Tel. Verzeichnis pruefen,Mehmet Avsar - Neckarstr. 2,Speisekarte & Oeffnungszeiten online,Neu
+Freiberg a.N.,Dr. Christine / Birgit Weiss,Arzt/Kinderarzt,nur Portal,M,Business,4990,07141 271718,Marktplatz 10,Keine eigene Seite - nur Verbands-Portal + web.de-Mail,Neu
+Freiberg a.N.,Dr. Karl-Heinz Aupperle,Arzt/Frauenarzt,keine,M,Business,4990,07141 72422,Marktplatz 20,Keine eigene Website - nur Doctolib-Listing,Neu
+Freiberg a.N.,Dr. Uta Willimowski,Arzt/Allgemeinmedizin,keine,M,Business,4990,07141 9743731,Zeppelinstr. 6 (Beihingen),Weder Website noch Online-Termin,Neu
+Freiberg a.N.,Dr. Rainer & Ulrike Thomas,Arzt/Hausarzt,keine,M,Business,4990,07141 271640,Marktplatz 10,Gemeinschaftspraxis ganz ohne eigene Website,Neu
+Freiberg a.N.,Fischer GmbH,Handwerk/Bau,veraltet,M,Business,4990,07141 643196-0,Harteneckstr. 21,Tabellen-Layout nicht mobil kein Anfrageformular,Neu
+Freiberg a.N.,Flaschnerei Mereu,Handwerk/Flaschner,veraltet/offline,M,Business,4990,07141 780780,Obere Dorfstr. 19,Seite offline (HTTP 503) kein HTTPS - verliert Anfragen,Neu
+Freiberg a.N.,Broesamle Hausverwaltung,Immobilien/Verwaltung,veraltet/kein HTTPS,M,Business,4990,07141 6425200,Siemensstr. 18 (Heutingsheim),Kein SSL nicht mobil + schwache Bewertungen,Neu
+Freiberg a.N.,Scholz GmbH,Handwerk/SHK,veraltet,M,Business,4990,07141 9919770,Steinbeisstr. 12,Veraltet nicht mobil - ACHTUNG bauen evtl. selbst um,Neu
+Freiberg a.N.,Hesperia Immobilien,Immobilien,keine (geparkt),M,Business,4990,07141 6423985,Marc Baeuerle (Heutingsheim),Domain nur geparkt - vorher Aktivitaet pruefen,Neu
+Freiberg a.N.,Eiscafe Venezia,Gastronomie,Template-Subdomain,S,Starter,2490,07141 9475895,Marktplatz 4,DISH-Template ohne eigene Domain - Marke staerken,Neu
+Freiberg a.N.,FAN-Immoservice,Immobilien/Verwaltung,schwach (Standard-WP),M,Business,4990,0176 47390565,Holger Guettich,Standard-Theme kein Leadformular,Neu
+Freiberg a.N.,Welacare,Pflege/24h-Betreuung,schwach (kein Formular),M,Business,4990,0162 4695737,Joanne Wieland,Modern aber nur E-Mail statt Leadformular,Neu
+Freiberg a.N.,Pudel Orthopaedie-Schuhtechnik,Gesundheit/Handwerk,veraltet (TYPO3),M,Business,4990,07141 1464730,Marktplatz 10 (Filiale),Veraltetes CMS - Filiale einer Kette,Neu
+Freiberg a.N.,Blue Diner,Gastronomie,moderne Website,,,,07141 2990588,Bahnhofstr. 45,Hat blue-freiberg.de + Online-Shop,Kein Bedarf
+Freiberg a.N.,Dr. Uwe Kuhn,Arzt/Hausarzt,moderne Website,,,,07141 72082,Wuerttemberger Str. 2 (Beihingen),Hat praxis-am-zentrum.de (2024),Kein Bedarf
+Freiberg a.N.,GUEPA Bauelemente,Handwerk/Bauelemente,moderne Website,,,,07141 73180,Gaussstr. 3,Hat guepa.de (WordPress 2026),Kein Bedarf
+Freiberg a.N.,Elektro Hesser,Handwerk/Elektro,moderne Website,,,,07141 71073,Stuttgarter Str. 35,Hat elektro-hesser.de responsive,Kein Bedarf
+Freiberg a.N.,WHG Immobilien,Immobilien,moderne Website,,,,07141 75501,Heidi Pfuderer - Friedenstr. 25,Hat whg-immobilien.de modern,Kein Bedarf
+Freiberg a.N.,ProLog Pflege,Pflege/Betreuung,moderne Website,,,,07141 3759050,Planckstr. 17,Hat prolog-pflegedienst.de,Kein Bedarf
+Freiberg a.N.,curando,Physiotherapie,moderne Website,,,,07141 9743840,Porschestr. 2,Hat curando.de mit Formularen,Kein Bedarf
+Benningen a.N.,Metzgerei Heigl e.K.,Metzgerei,nur Facebook,S,Starter,2490,07144 6070550,Hauptstr. 17,Mittagstisch & Wochenangebote online holt Laufkundschaft,Neu
+Benningen a.N.,Grill Gunther,Imbiss,keine,S,Starter,2490,07144 1309373,Benningen,Onepager mit Speisekarte + Standort fuer Doener-Suchen,Neu
+Benningen a.N.,Eis To-Go,Eisdiele,Branchenbuch,S,Starter,2490,07144 283315,Dengelberg 3 - Betriebsstatus pruefen,Sorten + Saison-Oeffnungszeiten bringt Sommerkundschaft,Neu
+Benningen a.N.,Osswald Egon Friseur,Friseur,keine,S,Starter,2490,07144 18711,Ludwigsburger Str. 10,Onepager mit Leistungen/Preisen + Online-Terminanfrage,Neu
+Benningen a.N.,Alexandra Seyfferle Nagelstudio & Fusspflege,Nagel/Fusspflege,Branchenbuch,S,Starter,2490,07144 849299,Hirschmann-Ring 18,Med. Fusspflege + Terminbuchung gewinnt Stammkundschaft,Neu
+Benningen a.N.,Blumenladen Rieger,Floristik,keine,S,Starter,2490,07144 5744,Hermannstr. 2,Sortiment + Trauer-/Hochzeitsfloristik macht Anlassbestellungen leicht,Neu
+Benningen a.N.,Physiotherapie Janssen-Haug / Schoenebeck,Physiotherapie,Branchenbuch,M,Business,4990,07144 863686,Ludwigsburger Str. 45,Leistungen + Kassen-Infos + Online-Terminanfrage entlastet Telefon,Neu
+Benningen a.N.,Edgar Entenmann Sanitaer/Heizung,Handwerk/SHK,Branchenbuch,M,Business,4990,07144 841795,Hirschmann-Ring 24,Badsanierung/Heizung + Anfrageformular gewinnt Renovierungsauftraege,Neu
+Benningen a.N.,Norbert Kojer Sanitaer Heizung Flaschnerei,Handwerk/SHK,Branchenbuch,M,Business,4990,07144 14789,Dengelberg 17,Referenzen Bad & Flaschnerei positionieren professionell,Neu
+Benningen a.N.,Dieter Braun Kfz-Technik,Kfz-Werkstatt,keine,M,Business,4990,Tel. Verzeichnis pruefen (07144),Beethovenstr. 64,Werkstatt-Seite mit Leistungen + Terminanfrage,Neu
+Benningen a.N.,Die Holzmeister GmbH,Zimmerei/Holzbau,Branchenbuch,M,Business,4990,07144 886150,Krautlose 11,Projektgalerie Dachstuhl/Carport gewinnt private Bauherren,Neu
+Benningen a.N.,Elektrotechnik Hirschmann-Ring 20,Handwerk/Elektro,Branchenbuch,M,Business,4990,07144 12528,Hirschmann-Ring 20 - Inhaber pruefen,Eigene Seite mit Leistungsspektrum macht Betrieb sichtbar,Neu
+Ingersheim,Haarstudio Petra,Friseur,keine,S,Starter,2490,07142 773611,Marktstr. 7 (Grossingersheim),Schlanke Seite mit Online-Terminbuchung bringt Kundschaft,Neu
+Ingersheim,Kneule Friseurgeschaeft,Friseur,keine,S,Starter,2490,07142 52206,Marktstr. 19 (Grossingersheim),Oeffnungszeiten & Preise online erhoeht Anrufe,Neu
+Ingersheim,Friseursalon Aymar,Friseur,keine,S,Starter,2490,07142 54241,Friedrichstr. 16 (Grossingersheim),Moderner Onepager hebt vom Wettbewerb ab,Neu
+Ingersheim,Friseursalon Naegele,Friseur,keine,S,Starter,2490,07142 65599,In den Linden 1 (Kleiningersheim),Kompakte Seite mit Galerie fuer Familienbetrieb,Neu
+Ingersheim,Nagelstudio Beauty (In den Linden 39),Nagel/Kosmetik,Branchenbuch,S,Starter,2490,07142 778489,In den Linden 39 (Kleiningersheim),Bildergalerie + Buchung konvertiert gut,Neu
+Ingersheim,Nageldesign (In den Beeten 15),Nagelstudio,Branchenbuch,S,Starter,2490,07142 3780938,In den Beeten 15 (Grossingersheim),Onepager mit Leistungen/Preisen + Buchung,Neu
+Ingersheim,Kosmetikstudio (Bietigheimer Str.),Kosmetik,keine,S,Starter,2490,07142 776977,Bietigheimer Str. 65,Behandlungsuebersicht online schafft Vertrauen,Neu
+Ingersheim,Metzgerei & Gasthaus zur Rose (Einkoern),Metzgerei/Gastro,veraltet,M,Business,4990,07142 64201,Fam. Einkoern - Pflaster 4,Veraltete HTML-Seite - moderne mobile Seite mit Wochenangebot,Neu
+Ingersheim,Star Pizza Service,Pizzeria/Lieferdienst,schwach (Bestell-Template),S,Starter,2490,07142 220303,Pleidelsheimer Str. 12,Eigene Domain staerkt Marke & spart Provisionen,Neu
+Ingersheim,Efe Doener & Pizza Haus,Imbiss,nur Portale,S,Starter,2490,07142 7884477,Tiefengasse 9 (Grossingersheim),Eigene Seite mit Speisekarte bindet Stammgaeste,Neu
+Ingersheim,Sparmarkt Fritz,Einzelhandel/Lebensmittel,keine,S,Starter,2490,07142 52346,Marktstr. 12 (Grossingersheim),Sortiment + Angebote + Oeffnungszeiten erreicht Nachbarschaft,Neu
+Ingersheim,Schray KFZ-Technik,Kfz-Werkstatt,keine,M,Business,4990,07142 20410,Wolfgang Schray - Freiberger Str. 18,Leistungen + Termin-Anfrage + Bewertungen gewinnt Neukunden,Neu
+Ingersheim,Heizungsbau Glueck GmbH,Handwerk/SHK,nur Branchenportale,M,Business,4990,07142 20424,Kurt Glueck - Bietigheimer Str. 50,Foerder-/Notdienstthemen + Auffindbarkeit,Neu
+Ingersheim,Volker Schulz Maler & Lackierer,Maler,keine,M,Business,4990,07142 7091021,Hessigheimer Str. 3,Referenz-Galerie ueberzeugt Privatkunden,Neu
+Ingersheim,Thomas Koch,Zimmermann,keine,M,Business,4990,07142 65308,Freibergerstr. 20/1,Projektfotos + Kontaktformular buendelt Anfragen,Neu
+Ingersheim,Schafzuchtbetrieb Eggert,Landwirtschaft/Direktvermarkter,keine,S,Starter,2490,07142 7397046,Grossingersheimer Str. 2,Hofverkauf + Produkte + Bezugszeiten online,Neu
+Ingersheim,Tiernahrung Belz,Einzelhandel/Tierbedarf,keine,S,Starter,2490,07142 931108,Blumenstr. 5,Sortiment + Oeffnungszeiten schafft lokale Sichtbarkeit,Neu
+Ingersheim,Dorothee Maier Physiotherapie,Physiotherapie,keine,M,Business,4990,Tel. Verzeichnis pruefen,Grossingersheimer Str. 3,Leistungen + Kassen-Infos + Terminanfrage ist Standard,Neu
+Ingersheim,Dr. med. dent. Dubravko Borcic,Zahnarzt,keine,M,Business,4990,07142 64334,Marktstr. 5,Praxisseite mit Leistungen + Online-Terminvergabe,Neu
+Ingersheim,Dr. med. Christiane Mammele,Arzt/Psychotherapie,keine,M,Business,4990,07142 20111,Schoenblick 19,Seriose Seite mit Sprechzeiten + Schwerpunkten,Neu
+Ingersheim,Karr (Petra),Dienstleistungen,keine,S,Starter,2490,07142 67425,Weidenweg 16,Onepager mit Leistungen + Kontakt schnell umgesetzt,Neu
+Ingersheim,Roesch GmbH,Containerdienst/Entsorgung,keine,M,Business,4990,07142 6057,Groeninger Weg 8,Containergroessen + Preise + Anfrageformular,Neu
+Ingersheim,Holderhof,Hofladen/Direktvermarkter,Branchenbuch,S,Starter,2490,Tel. Verzeichnis pruefen,Holderhof 1,Angebot + Hof-Geschichte + Verkaufszeiten,Neu
+Pleidelsheim,Baeckerei Reiner,Baeckerei,nur Facebook,S,Starter,2490,07144 23707,Friedrichstr. 25,Eigene Seite mit Sortiment & Oeffnungszeiten statt nur Instagram,Neu
+Pleidelsheim,Imbiss & Partyservice Holzwarth,Imbiss/Catering,keine,S,Starter,2490,07144 23856,Ralf Holzwarth - Stuifenstr. 10,Seite mit Mittagstisch + Partyservice fehlt komplett,Neu
+Pleidelsheim,Pizzeria Zum Hirschkeller,Pizzeria,nur Branchenbuch,S,Starter,2490,07144 283219,Pleidelsheim,Eigene Speisekarte online statt nur Fremdportale,Neu
+Pleidelsheim,Pleidelsheimer Hof,Gastronomie,keine,S,Starter,2490,07144 22328,Moerikestr. 3,Lokal nur in Verzeichnissen - eigener Auftritt fehlt,Neu
+Pleidelsheim,DQUADRAT Imbiss,Imbiss (Burger/Tantuni),keine,S,Starter,2490,0176 94708112,Gottlieb-Daimler-Str. 20,Onepager mit Karte + Standort fuer jungen Imbiss,Neu
+Pleidelsheim,Pizza & Kebaphaus Selim,Imbiss/Lieferdienst,nur Lieferando,S,Starter,2490,Tel. Verzeichnis pruefen,Pleidelsheim,Eigene Bestell-/Infoseite statt nur Lieferando,Neu
+Pleidelsheim,Bonny's Cafe,Cafe,nur Instagram,S,Starter,2490,0172 8698281,Yusa Sarioglu - Marbacher Str. 1,Fruehstuecks-/Cafe-Onepager fuer Neueroeffnung,Neu
+Pleidelsheim,Eiscafe Da Salva,Eisdiele,keine,S,Starter,2490,07144 8890799,Emin Fejzulji - Hindenburgplatz 3,Seite mit Sorten/Saison wuerde auffallen,Neu
+Pleidelsheim,Friseursalon Enderle,Friseur,nur Branchenbuch,S,Starter,2490,07144 23888,Christine Nahl - Mundelsheimer Str. 7,Eigene Seite mit Terminbuchung,Neu
+Pleidelsheim,Tanja Friseurstudio Sarnow,Friseur,nur Branchenbuch,S,Starter,2490,07144 807940,Tanja Sarnow - Hindenburgplatz 2,Onepager mit Online-Terminbuchung,Neu
+Pleidelsheim,W. Schied Haarstudio,Friseur,nur Branchenbuch,S,Starter,2490,07144 207252,Marbacher Str. 1,Keine eigene Praesenz - Onepager,Neu
+Pleidelsheim,Barbershop Los Berberos,Barbershop,keine,S,Starter,2490,07144 1304818,Marbacher Str. 1,Zielgruppe sucht online - klares Potenzial,Neu
+Pleidelsheim,Barbershop Men's Room,Barbershop,keine,S,Starter,2490,07144 2616109,Hindenburgplatz 1,Onepager mit Preisen + Buchung,Neu
+Pleidelsheim,G.S. Beauty Studio,Kosmetik/Beauty,nur Fresha,S,Starter,2490,Tel. Verzeichnis pruefen,Bachgartenstr. 1,Eigene Marken-/Infoseite statt nur Fresha,Neu
+Pleidelsheim,Kosmetikinstitut Birgit Riegler,Kosmetik,keine,S,Starter,2490,07144 8015916,Johannes-Nefflen-Str. 16,Behandlungsuebersicht online fehlt,Neu
+Pleidelsheim,Savas Oezkan Malerbetrieb,Maler/Handwerk,keine,M,Business,4990,Tel. Verzeichnis pruefen,Talstr. 60,Referenzseite mit Projekten bringt Auftraege,Neu
+Pleidelsheim,Marinkovic GmbH (Maler/Tapezier),Maler/Handwerk,nur Branchenbuch,M,Business,4990,Tel. Verzeichnis pruefen,Robert-Bosch-Str. 14,Eigene Seite mit Leistungen,Neu
+Pleidelsheim,Bernd Wolf Elektroinstallation,Elektro/Handwerk,nur Branchenbuch,M,Business,4990,07144 29721,Teckstr. 29,Kein eigener Webauftritt - Leistungen online,Neu
+Pleidelsheim,Erdbeer- & Spargelhof Baust,Hofladen/Direktvermarkter,nur Verzeichnisse,M,Business,4990,07144 22034,Werner Baust - Haeselweg 15,Saison (Spargel/Erdbeeren/Eier) + Oeffnungszeiten,Neu
+Pleidelsheim,Gaertnerei Hammer,Gaertnerei/Floristik,keine,M,Business,4990,07144 23708,Murrer Weg 2,Pflanzen-/Saisonangebot online,Neu
+Pleidelsheim,Kaeseck am Backhaeusle,Gastronomie/Spezialitaet,keine,S,Starter,2490,0971 4422295,Mundelsheimer Str. 2,Lokale Spezialitaetenadresse ohne Auftritt,Neu
+Pleidelsheim,Optik Flohr,Einzelhandel/Optiker,nur Branchenbuch,S,Starter,2490,07144 23347,Schillerplatz 1,Seite mit Marken/Service/Termin fehlt,Neu
+Pleidelsheim,Bergmann Bueroeinrichtungen,Einzelhandel/Buero,Status pruefen,M,Business,4990,07144 885060,Schillerplatz 5,Webauftritt nicht gefunden - Verzeichnis pruefen,Neu
+Pleidelsheim,Praxis Osteopathie Zienteck,Heilpraktiker/Osteopathie,schwache Seite,M,Business,4990,07144 7029642,Achalmstr. 32,Bestehende Seite sehr einfach - Modernisierung lohnt,Neu
+Asperg,Eis Cafe Lorenzo,Eisdiele/Cafe,nur Facebook,S,Starter,2490,07141 65595,Marco Engel - Markgroeninger Str. 16,Viele FB-Fans aber keine Seite mit Sorten/Oeffnungszeiten,Neu
+Asperg,Gaststaette Weinhof (Burkhardt),Gastronomie,Baukasten (eatbu),M,Business,4990,07141 664262,Fam. Burkhardt - Gartenstr. 29,Eigene Seite mit Speisekarte + Reservierung statt Baukasten,Neu
+Asperg,Pilsklause-Saloniki,Gastronomie/Pizza,leerer WordPress,S,Starter,2490,07141 62935,Saarstr. 1,Leere Standard-Seite - echter Auftritt mit Speisekarte fehlt,Neu
+Asperg,Asperger Pizza-Kebap-Haus,Imbiss/Pizzaservice,nur Branchenbuch,S,Starter,2490,07141 9565386,Alleenstr. 23,Onepage mit Speisekarte/Lieferinfo bringt Direktbestellungen,Neu
+Asperg,Maler Buck Gerhard,Handwerk/Maler,keine,M,Business,4990,07141 664901,Wunnensteinstr. 18,Referenzbilder online bringen Privatkunden,Neu
+Asperg,Maler Burkhardt Siegfried,Handwerk/Maler,keine,M,Business,4990,07141 664769,Schulstr. 43,Schlanke Seite mit Leistungen + Kontakt,Neu
+Asperg,Malermeister Scognamiglio,Handwerk/Maler,keine,M,Business,4990,07154 8079759,Bahnhofstr. 27,Referenz-Seite hilft bei Auftragsakquise,Neu
+Asperg,Malermeister Tronser,Handwerk/Maler,keine,M,Business,4990,07141 2982203,Badstr. 15/1,Bildergalerie abgeschlossener Arbeiten,Neu
+Asperg,Elektro Dolch,Handwerk/Elektro,keine,M,Business,4990,07141 65207,Asperg,Seite mit Leistungen + Notdienst-Hinweis bringt Anfragen,Neu
+Asperg,Gumpp Alfred Elektroinstallation,Handwerk/Elektro,Branchenbuch,M,Business,4990,07141 63980,Schulstr. 21,Eigener Auftritt schafft Vertrauen - Tel. pruefen,Neu
+Asperg,Rauscher + Mueller GmbH,Handwerk/SHK,keine,M,Business,4990,07141 68118,Gartenstr. 26,Traditionsbetrieb - Bad/Heizung-Leistungen modern zeigen,Neu
+Asperg,Lehmann Achim KFZ-Werkstatt,Kfz-Werkstatt,keine,M,Business,4990,07141 65344,Achim Lehmann - Eglosheimer Str. 56,Oeffnungszeiten + Leistungen fuer Werkstatt-Suchen,Neu
+Asperg,Karin's Haarstudio,Friseur,nur Facebook,S,Starter,2490,07141 31503,Karin - Hirschbergstr. 44,Website mit Online-Terminbuchung erleichtert Termine,Neu
+Asperg,Renate Woern Friseur,Friseur,nur Facebook (veraltet),S,Starter,2490,07141 664942,Stuttgarter Str. 1,Moderne Seite mit Buchung waere Upgrade - Tel. pruefen,Neu
+Asperg,Kosmetikstudio Asperg,Kosmetik,nur Facebook,S,Starter,2490,07141 63051,Bahnhofstr. 89,Eigene Seite mit Behandlungsangebot + Preisen,Neu
+Asperg,Ida Rothfuss (Kosmetik & Fusspflege),Kosmetik/Fusspflege,keine,S,Starter,2490,07141 31630,Karl u. Ida Rothfuss - Teckstr. 34,Onepage mit Leistungen + Terminanfrage,Neu
+Asperg,Fusspflege (Friedrich-List-Str.),Fusspflege,nur Branchenbuch,S,Starter,2490,07141 903738,Friedrich-List-Str. 1,Seite mit med. Fusspflege-Angebot - Tel. pruefen,Neu
+Asperg,Nagelstudio (Moerikestr. 3),Nagelstudio,nur Branchenbuch,S,Starter,2490,07141 660690,Moerikestr. 3,Seite mit Galerie + Online-Termin,Neu
+Asperg,Blumenkoerble (Atzori),Floristik,nur Instagram,S,Starter,2490,07141 62709,Christine Atzori - Markgroeninger Str. 15,Sortiment + Anlaesse + Trauerfloristik besser auffindbar,Neu
+Asperg,Blumen Assenheimer,Floristik,nur Fleurop,S,Starter,2490,07141 62606,Helga Ilg - Waldaeckerstr. 2,Eigene Seite bindet Kunden ans lokale Geschaeft,Neu
+Asperg,Fahrschule Liberty,Fahrschule,nur Impressum,S,Starter,2490,0172 7615906,Bahnhofstr. 95,Seite mit Kursen/Anmeldung - Tel. pruefen,Neu
+Asperg,Eiscafe/Baeckerei (Badstr. 16),Baeckerei,keine bestaetigt,S,Starter,2490,07141 62584,Badstr. 16,Onepage mit Sortiment/Oeffnungszeiten - Name pruefen,Neu
