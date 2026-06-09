@@ -1,0 +1,92 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #0a0a0c;
+  --foreground: #fafafa;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-ink text-zinc-100 antialiased;
+    font-feature-settings: "ss01", "cv01";
+  }
+
+  ::selection {
+    background-color: rgba(255, 106, 43, 0.3);
+    color: #fff;
+  }
+
+  /* Dezenter Scrollbar im Dark-Theme */
+  ::-webkit-scrollbar {
+    width: 10px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #0a0a0c;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #2a2a30;
+    border-radius: 9999px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #3a3a42;
+  }
+}
+
+@layer components {
+  /* Glassmorphismus-Karte */
+  .glass {
+    @apply border border-white/10 bg-white/[0.04] backdrop-blur-xl;
+  }
+
+  .glass-strong {
+    @apply border border-white/10 bg-white/[0.06] backdrop-blur-2xl;
+  }
+
+  /* Verlaufstext im Marken-Orange */
+  .text-gradient {
+    @apply bg-brand-gradient bg-clip-text text-transparent;
+  }
+
+  /* Sektions-Container */
+  .container-x {
+    @apply mx-auto w-full max-w-6xl px-6 lg:px-8;
+  }
+
+  /* Feiner oberer Lichtschein an Sektionen */
+  .section {
+    @apply relative py-20 sm:py-28;
+  }
+
+  /* Pill / Badge */
+  .pill {
+    @apply inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/[0.04] px-4 py-1.5 text-xs font-medium uppercase tracking-[0.18em] text-zinc-300 backdrop-blur-md;
+  }
+
+  /* Primärer Button (Marken-Verlauf) */
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-full bg-brand-gradient px-7 py-3.5 text-sm font-semibold text-white shadow-brand-glow transition-transform duration-200 hover:scale-[1.03] active:scale-100;
+  }
+
+  /* Sekundärer Button (Glas) */
+  .btn-ghost {
+    @apply inline-flex items-center justify-center gap-2 rounded-full border border-white/15 bg-white/[0.03] px-7 py-3.5 text-sm font-semibold text-zinc-100 backdrop-blur-md transition-colors duration-200 hover:bg-white/[0.08];
+  }
+}
+
+/* Reduzierte Bewegung respektieren (Barrierefreiheit / BFSG) */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}

@@ -1,0 +1,513 @@
+{
+  "_hinweis": "ZENTRALE INHALTSDATEI — Hier alle Texte pflegen. Felder in [ECKIGEN KLAMMERN] sind PLATZHALTER und müssen vor dem Live-Gang ausgefüllt werden (v. a. Impressum & Datenschutz).",
+
+  "meta": {
+    "siteName": "Southside Media",
+    "title": "Southside Media — Websites, die für den Mittelstand arbeiten",
+    "description": "Webagentur aus Freiberg. Professionelle, rechtssichere und schnelle Websites zum transparenten Festpreis. Vom Onepager bis zur skalierbaren Markenpräsenz.",
+    "url": "https://www.southside-media.de",
+    "locale": "de_DE",
+    "themeColor": "#0a0a0c"
+  },
+
+  "company": {
+    "name": "Southside Media",
+    "legalForm": "GbR",
+    "fullLegalName": "Southside Media GbR",
+    "owners": ["Damian Eynius", "Belkis Aslani"],
+    "email": "kontakt@southside-media.de",
+    "phone": "[Telefonnummer eintragen]",
+    "address": {
+      "street": "[Straße und Hausnummer]",
+      "zip": "[PLZ]",
+      "city": "Freiberg",
+      "country": "Deutschland"
+    }
+  },
+
+  "nav": {
+    "logo": "SOUTHSIDE.MEDIA",
+    "links": [
+      { "label": "Leistungen", "href": "#leistungen" },
+      { "label": "Ablauf", "href": "#ablauf" },
+      { "label": "Pakete", "href": "#pakete" },
+      { "label": "Über uns", "href": "#ueber-uns" },
+      { "label": "FAQ", "href": "#faq" }
+    ],
+    "cta": { "label": "Erstgespräch", "href": "#kontakt" }
+  },
+
+  "hero": {
+    "badge": "Festpreis · Planbar · Fair",
+    "titlePre": "Websites, die für den",
+    "titleHighlight": "Mittelstand",
+    "titlePost": "arbeiten.",
+    "subtitle": "Transparente Festpreise, klare Pakete, planbare Ergebnisse. Wir bauen professionelle, rechtssichere und schnelle Websites — vom schnellen Onepager bis zur skalierbaren Markenpräsenz.",
+    "ctaPrimary": { "label": "Kostenloses Erstgespräch", "href": "#kontakt" },
+    "ctaSecondary": { "label": "Pakete ansehen", "href": "#pakete" },
+    "stats": [
+      { "value": "Festpreis", "label": "ohne Stunden-Inflation" },
+      { "value": "DSGVO", "label": "& BFSG-konform" },
+      { "value": "Quellcode", "label": "gehört Ihnen" }
+    ]
+  },
+
+  "trust": {
+    "label": "Gebaut für Handwerk, Dienstleister, Praxen, Kanzleien & B2B",
+    "items": [
+      "Rechtssichere Pflichtseiten",
+      "Barrierefreiheit (BFSG)",
+      "Mobil-optimiert",
+      "On-Page-SEO",
+      "Schnelle Ladezeiten"
+    ]
+  },
+
+  "services": {
+    "eyebrow": "Leistungen",
+    "heading": "Alles für Ihre digitale Präsenz",
+    "subtitle": "Von der ersten Idee bis zur laufenden Betreuung — aus einer Hand, mit klarem Umfang und festem Liefertermin.",
+    "items": [
+      {
+        "icon": "Layout",
+        "title": "Webdesign & Entwicklung",
+        "text": "Individuelles, modernes Design und sauber gebaute Websites — responsive, schnell und auf Conversion optimiert."
+      },
+      {
+        "icon": "PenTool",
+        "title": "Logo & Branding",
+        "text": "Eine klare Designsprache: Logo, Farben und Typografie, die Ihre Marke wiedererkennbar machen."
+      },
+      {
+        "icon": "Search",
+        "title": "SEO & Sichtbarkeit",
+        "text": "On-Page-SEO inkl. Keywords, Google-Business-Profil und Performance — damit Kunden Sie finden."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Rechtssicherheit",
+        "text": "Abmahnsichere Pflichtseiten, DSGVO-konformes Cookie-Consent und BFSG-Barrierefreiheits-Check."
+      },
+      {
+        "icon": "ShoppingBag",
+        "title": "Shop & Web-Apps",
+        "text": "Online-Shops, Buchungssysteme und Integrationen (CRM, Newsletter) für anspruchsvolle Projekte."
+      },
+      {
+        "icon": "LifeBuoy",
+        "title": "Wartung & Betreuung",
+        "text": "Updates, Backups, Sicherheit und Monitoring im monatlich kündbaren Care-Paket."
+      }
+    ]
+  },
+
+  "process": {
+    "eyebrow": "Ablauf",
+    "heading": "In vier Schritten zur fertigen Website",
+    "subtitle": "Klar strukturiert, planbar und transparent — Sie wissen jederzeit, woran wir arbeiten.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Strategiegespräch",
+        "text": "Kostenlos & unverbindlich: Wir klären Ziele, Umfang und welches Paket zu Ihrem Vorhaben passt."
+      },
+      {
+        "step": "02",
+        "title": "Konzept & Festpreis",
+        "text": "Sie erhalten ein verbindliches Festpreis-Angebot mit definiertem Umfang und schriftlichem Liefertermin."
+      },
+      {
+        "step": "03",
+        "title": "Design & Umsetzung",
+        "text": "Wir gestalten und entwickeln Ihre Website — inklusive Korrekturschleifen und enger Abstimmung."
+      },
+      {
+        "step": "04",
+        "title": "Launch & Betreuung",
+        "text": "Go-live, Übergabe von Zugängen und Quellcode — auf Wunsch mit laufender Care-Betreuung."
+      }
+    ]
+  },
+
+  "pricing": {
+    "eyebrow": "Website-Pakete",
+    "heading": "Drei Wege zu Ihrer Website",
+    "subtitle": "Alle Preise sind Netto-Festpreise zzgl. 19 % USt. Was im Angebot steht, wird geliefert — keine versteckten Stundennachforderungen.",
+    "tiers": [
+      {
+        "name": "Starter",
+        "price": "2.490 €",
+        "priceNote": "einmalig, Festpreis",
+        "audience": "Einzelunternehmer, Handwerk, kleine Praxen & Kanzleien.",
+        "highlight": false,
+        "delivery": "Lieferzeit 2–3 Wochen",
+        "features": [
+          "Onepager oder bis zu 5 Unterseiten",
+          "Responsives Design auf Template-Basis",
+          "Kontaktformular & Google Maps",
+          "Rechtssichere Pflichtseiten",
+          "Basis-SEO (Meta, Ladezeit)",
+          "Google-Business-Profil",
+          "1 Korrekturschleife"
+        ],
+        "cta": { "label": "Anfragen", "href": "#kontakt" }
+      },
+      {
+        "name": "Business",
+        "price": "4.990 €",
+        "priceNote": "einmalig, Festpreis",
+        "audience": "Etablierte KMU, Dienstleister und B2B-Unternehmen.",
+        "highlight": true,
+        "badge": "Beliebteste Wahl",
+        "delivery": "Lieferzeit 4–6 Wochen",
+        "features": [
+          "Bis zu 10 individuelle Unterseiten",
+          "Komplett individuelles Design",
+          "CMS — selbst pflegbar (WordPress)",
+          "On-Page-SEO inkl. Keywords",
+          "Blog-/News-Bereich",
+          "Performance & Mobile-Optimierung",
+          "BFSG-Barrierefreiheit-Check",
+          "2 Korrekturschleifen"
+        ],
+        "cta": { "label": "Anfragen", "href": "#kontakt" }
+      },
+      {
+        "name": "Premium",
+        "price": "ab 8.900 €",
+        "priceNote": "Festpreis nach UX-Workshop",
+        "audience": "Anspruchsvolle Marken, Shops & internationale Ausrichtung.",
+        "highlight": false,
+        "delivery": "Lieferzeit 8–10 Wochen",
+        "features": [
+          "15+ Seiten / Shop / Web-App-Logik",
+          "Eigene Designsprache + UX-Workshop",
+          "Mehrsprachigkeit",
+          "Erweiterte SEO & Conversion",
+          "Integrationen (CRM, Newsletter, Buchung)",
+          "3 Korrekturschleifen"
+        ],
+        "cta": { "label": "Anfragen", "href": "#kontakt" }
+      }
+    ]
+  },
+
+  "whyFixed": {
+    "eyebrow": "Warum Festpreis statt Stundensatz?",
+    "heading": "Planbar, klar und fair",
+    "points": [
+      {
+        "stat": "100 %",
+        "title": "Planbarkeit",
+        "text": "Sie wissen vor dem Start exakt, was die Website kostet — ohne Stunden-Inflation."
+      },
+      {
+        "stat": "Klar",
+        "title": "Definierter Umfang",
+        "text": "Nach einem kurzen Strategiegespräch steht Umfang und Liefertermin schriftlich fest."
+      },
+      {
+        "stat": "Fair",
+        "title": "Eigentum statt Miete",
+        "text": "Am Ende gehört die Website Ihnen — inkl. Zugängen und Quellcode."
+      }
+    ]
+  },
+
+  "care": {
+    "eyebrow": "Wartung & Betreuung",
+    "heading": "Damit Ihre Website sicher & aktuell bleibt",
+    "subtitle": "Optional und monatlich kündbar — zubuchbar zu jedem Paket.",
+    "plans": [
+      {
+        "name": "Care Starter",
+        "price": "49 €",
+        "interval": "/ Monat",
+        "text": "Updates, Backups, Sicherheit & Monitoring."
+      },
+      {
+        "name": "Care Plus",
+        "price": "99 €",
+        "interval": "/ Monat",
+        "text": "Zusätzlich 1 Std. Änderungen / Monat, kleinere Anpassungen."
+      },
+      {
+        "name": "Care Pro",
+        "price": "199 €",
+        "interval": "/ Monat",
+        "text": "Zusätzlich 3 Std. Änderungen, monatliches SEO-/Performance-Reporting, priorisierter Support."
+      }
+    ],
+    "addonsHeading": "Add-ons",
+    "addonsSubtitle": "Flexibel zubuchbar — zu jedem Paket kombinierbar.",
+    "addons": [
+      { "label": "Weitere Sprache", "price": "ab 690 €" },
+      { "label": "Online-Shop-Modul (Anbindung)", "price": "ab 1.900 €" },
+      { "label": "Texterstellung (pro Seite)", "price": "90–150 €" },
+      { "label": "Logo- & Branding-Paket", "price": "ab 590 €" },
+      { "label": "Professionelle Fotografie (Tag)", "price": "ab 800 €" },
+      { "label": "Google / Meta Ads Setup", "price": "ab 490 €" }
+    ]
+  },
+
+  "about": {
+    "eyebrow": "Über uns",
+    "heading": "Eine Agentur, zwei klare Rollen",
+    "text": "Southside Media ist eine inhabergeführte Webagentur aus Freiberg. Wir verbinden ehrliche Beratung mit moderner Technik — und liefern Ergebnisse, die für Ihr Geschäft arbeiten.",
+    "team": [
+      {
+        "name": "Damian Eynius",
+        "role": "Vertrieb & Kundenbetreuung",
+        "text": "Ihr Ansprechpartner von der ersten Anfrage bis zum fertigen Projekt. Klärt Ziele, Umfang und sorgt für reibungslose Abläufe.",
+        "initials": "DE"
+      },
+      {
+        "name": "Belkis Aslani",
+        "role": "Design & Entwicklung",
+        "text": "Verantwortlich für Gestaltung und technische Umsetzung — performant, rechtssicher und auf dem aktuellen Stand der Technik.",
+        "initials": "BA"
+      }
+    ]
+  },
+
+  "faq": {
+    "eyebrow": "FAQ",
+    "heading": "Häufige Fragen",
+    "items": [
+      {
+        "q": "Was kostet eine Website bei Southside Media?",
+        "a": "Wir arbeiten mit transparenten Festpreisen: Starter ab 2.490 €, Business 4.990 € und Premium ab 8.900 € (jeweils netto zzgl. 19 % USt.). Den genauen Preis legen wir nach einem kurzen Strategiegespräch verbindlich fest."
+      },
+      {
+        "q": "Warum Festpreis statt Stundensatz?",
+        "a": "Weil Sie planbar kalkulieren können. Sie wissen vor dem Start exakt, was die Website kostet — ohne Stunden-Inflation und ohne versteckte Nachforderungen."
+      },
+      {
+        "q": "Gehört mir die Website am Ende?",
+        "a": "Ja. Nach Abschluss übergeben wir Ihnen alle Zugänge und den Quellcode. Sie sind Eigentümer — kein Miet-Modell."
+      },
+      {
+        "q": "Kann ich die Website selbst pflegen?",
+        "a": "Im Business- und Premium-Paket setzen wir auf ein CMS (WordPress), das Sie selbst pflegen können. Auf Wunsch übernehmen wir die Pflege im Care-Paket."
+      },
+      {
+        "q": "Ist die Website rechtssicher und barrierefrei?",
+        "a": "Wir liefern rechtssichere Pflichtseiten, DSGVO-konformes Cookie-Consent und im Business-Paket einen BFSG-Barrierefreiheits-Check."
+      },
+      {
+        "q": "Wie lange dauert die Umsetzung?",
+        "a": "Je nach Paket 2–3 Wochen (Starter), 4–6 Wochen (Business) oder 8–10 Wochen (Premium). Den Liefertermin halten wir schriftlich fest."
+      }
+    ]
+  },
+
+  "contact": {
+    "eyebrow": "Kontakt",
+    "heading": "Bereit für den nächsten Schritt?",
+    "text": "Lassen Sie uns in einem kostenlosen 30-minütigen Strategiegespräch herausfinden, welches Paket zu Ihrem Vorhaben passt. Sie erhalten danach ein verbindliches Festpreis-Angebot.",
+    "email": "kontakt@southside-media.de",
+    "ctaLabel": "Erstgespräch anfragen",
+    "form": {
+      "name": "Name",
+      "email": "E-Mail",
+      "company": "Unternehmen (optional)",
+      "message": "Worum geht es?",
+      "submit": "Anfrage senden",
+      "privacyNote": "Mit dem Absenden stimmen Sie der Verarbeitung Ihrer Daten gemäß unserer Datenschutzerklärung zu.",
+      "note": "Das Formular öffnet Ihr E-Mail-Programm. Ein serverseitiger Versand kann später ergänzt werden."
+    }
+  },
+
+  "footer": {
+    "tagline": "Websites, die für den Mittelstand arbeiten.",
+    "columns": [
+      {
+        "title": "Leistungen",
+        "links": [
+          { "label": "Webdesign", "href": "#leistungen" },
+          { "label": "Pakete", "href": "#pakete" },
+          { "label": "Wartung", "href": "#pakete" },
+          { "label": "SEO", "href": "#leistungen" }
+        ]
+      },
+      {
+        "title": "Unternehmen",
+        "links": [
+          { "label": "Über uns", "href": "#ueber-uns" },
+          { "label": "Ablauf", "href": "#ablauf" },
+          { "label": "Kontakt", "href": "#kontakt" }
+        ]
+      },
+      {
+        "title": "Rechtliches",
+        "links": [
+          { "label": "Impressum", "href": "/impressum" },
+          { "label": "Datenschutz", "href": "/datenschutz" }
+        ]
+      }
+    ],
+    "priceDisclaimer": "Alle genannten Preise sind Netto-Festpreise in Euro zzgl. der gesetzlichen Umsatzsteuer (19 %). „ab\"-Preise sind Richtwerte und werden nach einem unverbindlichen Strategiegespräch verbindlich kalkuliert. Hosting- und Domainkosten Dritter sind nicht enthalten. Angebot freibleibend, gültig 30 Tage ab Ausstellungsdatum.",
+    "copyright": "Southside Media GbR. Alle Rechte vorbehalten."
+  },
+
+  "cookie": {
+    "title": "Wir respektieren Ihre Privatsphäre",
+    "text": "Wir verwenden Cookies, um unsere Website zu verbessern. Statistik-Cookies (z. B. Analyse) werden erst nach Ihrer Zustimmung geladen. Notwendige Cookies sind für den Betrieb erforderlich.",
+    "accept": "Alle akzeptieren",
+    "decline": "Nur notwendige",
+    "settings": "Einstellungen",
+    "privacyLink": { "label": "Datenschutzerklärung", "href": "/datenschutz" },
+    "categories": [
+      { "key": "necessary", "label": "Notwendig", "locked": true, "text": "Für den Betrieb der Website technisch erforderlich." },
+      { "key": "analytics", "label": "Statistik", "locked": false, "text": "Hilft uns zu verstehen, wie die Website genutzt wird (z. B. anonyme Reichweitenmessung)." },
+      { "key": "marketing", "label": "Marketing", "locked": false, "text": "Wird verwendet, um Werbung relevanter zu gestalten." }
+    ]
+  },
+
+  "impressum": {
+    "title": "Impressum",
+    "intro": "Angaben gemäß § 5 DDG (Digitale-Dienste-Gesetz, vormals § 5 TMG).",
+    "sections": [
+      {
+        "heading": "Diensteanbieter",
+        "lines": [
+          "Southside Media GbR",
+          "[Straße und Hausnummer]",
+          "[PLZ] Freiberg",
+          "Deutschland"
+        ]
+      },
+      {
+        "heading": "Vertreten durch die Gesellschafter",
+        "lines": ["Damian Eynius", "Belkis Aslani"]
+      },
+      {
+        "heading": "Kontakt",
+        "lines": [
+          "Telefon: [Telefonnummer eintragen]",
+          "E-Mail: kontakt@southside-media.de"
+        ]
+      },
+      {
+        "heading": "Umsatzsteuer-ID",
+        "lines": [
+          "Umsatzsteuer-Identifikationsnummer gemäß § 27 a UStG:",
+          "[USt-IdNr. eintragen, falls vorhanden — sonst diesen Block entfernen]"
+        ]
+      },
+      {
+        "heading": "Redaktionell verantwortlich (§ 18 Abs. 2 MStV)",
+        "lines": [
+          "Damian Eynius",
+          "[Anschrift wie oben]"
+        ]
+      },
+      {
+        "heading": "EU-Streitschlichtung",
+        "lines": [
+          "Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr/",
+          "Unsere E-Mail-Adresse finden Sie oben im Impressum."
+        ]
+      },
+      {
+        "heading": "Verbraucherstreitbeilegung / Universalschlichtungsstelle",
+        "lines": [
+          "Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen."
+        ]
+      },
+      {
+        "heading": "Haftung für Inhalte",
+        "lines": [
+          "Als Diensteanbieter sind wir gemäß § 7 Abs. 1 DDG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 DDG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen."
+        ]
+      },
+      {
+        "heading": "Haftung für Links",
+        "lines": [
+          "Unser Angebot enthält ggf. Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich."
+        ]
+      },
+      {
+        "heading": "Urheberrecht",
+        "lines": [
+          "Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Beiträge Dritter sind als solche gekennzeichnet. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers."
+        ]
+      }
+    ],
+    "disclaimer": "Hinweis: Dies ist eine sorgfältig vorbereitete Vorlage und ersetzt keine Rechtsberatung. Bitte alle [Platzhalter] ausfüllen und die Angaben vor dem Live-Gang anwaltlich oder über einen Generator (z. B. eRecht24) prüfen lassen."
+  },
+
+  "datenschutz": {
+    "title": "Datenschutzerklärung",
+    "intro": "Wir freuen uns über Ihr Interesse an unserer Website. Der Schutz Ihrer personenbezogenen Daten ist uns ein wichtiges Anliegen. Nachfolgend informieren wir Sie gemäß Art. 13, 14 DSGVO über die Verarbeitung personenbezogener Daten auf dieser Website.",
+    "sections": [
+      {
+        "heading": "1. Verantwortlicher",
+        "lines": [
+          "Verantwortlich im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:",
+          "Southside Media GbR",
+          "[Straße und Hausnummer], [PLZ] Freiberg",
+          "E-Mail: kontakt@southside-media.de",
+          "Telefon: [Telefonnummer eintragen]"
+        ]
+      },
+      {
+        "heading": "2. Ihre Rechte als betroffene Person",
+        "lines": [
+          "Sie haben jederzeit das Recht auf Auskunft (Art. 15 DSGVO), Berichtigung (Art. 16), Löschung (Art. 17), Einschränkung der Verarbeitung (Art. 18), Datenübertragbarkeit (Art. 20) sowie ein Widerspruchsrecht (Art. 21).",
+          "Erteilte Einwilligungen können Sie jederzeit mit Wirkung für die Zukunft widerrufen (Art. 7 Abs. 3 DSGVO).",
+          "Ihnen steht zudem ein Beschwerderecht bei einer Datenschutz-Aufsichtsbehörde zu (Art. 77 DSGVO)."
+        ]
+      },
+      {
+        "heading": "3. Hosting",
+        "lines": [
+          "Diese Website wird bei einem externen Dienstleister gehostet ([Hosting-Anbieter eintragen, z. B. Vercel Inc. / Hosting in der EU]). Personenbezogene Daten, die auf dieser Website erfasst werden, werden auf den Servern des Hosters gespeichert. Die Erfassung erfolgt auf Grundlage unseres berechtigten Interesses an einer sicheren und effizienten Bereitstellung (Art. 6 Abs. 1 lit. f DSGVO). Mit dem Anbieter wurde ein Vertrag zur Auftragsverarbeitung (AVV) geschlossen."
+        ]
+      },
+      {
+        "heading": "4. Server-Logfiles",
+        "lines": [
+          "Beim Besuch der Website erhebt der Provider automatisch Informationen in Server-Logfiles (z. B. Browsertyp, Betriebssystem, Referrer-URL, Uhrzeit der Anfrage, gekürzte IP-Adresse). Diese Daten sind nicht bestimmten Personen zuordenbar und dienen der technischen Sicherheit und Stabilität (Art. 6 Abs. 1 lit. f DSGVO)."
+        ]
+      },
+      {
+        "heading": "5. Cookies & Einwilligung",
+        "lines": [
+          "Unsere Website verwendet technisch notwendige Cookies sowie — nach Ihrer ausdrücklichen Einwilligung — optionale Cookies (z. B. Statistik/Marketing). Rechtsgrundlage für die Einwilligung ist Art. 6 Abs. 1 lit. a DSGVO i. V. m. § 25 TDDDG. Optionale Cookies und Tracking-Dienste werden erst nach Ihrer Zustimmung über unser Cookie-Banner geladen. Ihre Auswahl können Sie jederzeit ändern."
+        ]
+      },
+      {
+        "heading": "6. Kontaktaufnahme",
+        "lines": [
+          "Wenn Sie uns per E-Mail oder über das Kontaktformular kontaktieren, verarbeiten wir Ihre Angaben zur Bearbeitung der Anfrage. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO (vorvertragliche Maßnahmen) bzw. lit. f (berechtigtes Interesse an der Beantwortung). Die Daten werden gelöscht, sobald sie nicht mehr erforderlich sind und keine gesetzlichen Aufbewahrungspflichten entgegenstehen."
+        ]
+      },
+      {
+        "heading": "7. Webanalyse (optional)",
+        "lines": [
+          "Sofern eingesetzt, verwenden wir ein datenschutzfreundliches Analyse-Werkzeug ([z. B. Plausible / Matomo / Google Analytics 4 eintragen]) ausschließlich nach Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Hierbei werden Nutzungsdaten anonymisiert/pseudonymisiert ausgewertet. Details zum konkreten Dienst ergänzen wir hier vor Aktivierung."
+        ]
+      },
+      {
+        "heading": "8. Schriftarten & externe Inhalte",
+        "lines": [
+          "Schriftarten werden lokal/selbst gehostet ausgeliefert, sodass beim Seitenaufruf keine personenbezogenen Daten an Dritte übertragen werden. Werden externe Dienste (z. B. Karten, Videos) eingebunden, erfolgt dies erst nach Ihrer Einwilligung."
+        ]
+      },
+      {
+        "heading": "9. Datensicherheit",
+        "lines": [
+          "Wir verwenden eine SSL-/TLS-Verschlüsselung (HTTPS), um die Übertragung Ihrer Daten zu schützen."
+        ]
+      },
+      {
+        "heading": "10. Aktualität",
+        "lines": [
+          "Diese Datenschutzerklärung hat den Stand [Monat/Jahr eintragen]. Durch Weiterentwicklung der Website oder geänderte gesetzliche Vorgaben kann eine Anpassung erforderlich werden."
+        ]
+      }
+    ],
+    "disclaimer": "Hinweis: Dies ist eine sorgfältig vorbereitete Vorlage und ersetzt keine Rechtsberatung. Bitte vor dem Live-Gang alle [Platzhalter] ausfüllen, die tatsächlich eingesetzten Dienste ergänzen und über einen Generator (z. B. eRecht24) oder anwaltlich prüfen lassen."
+  }
+}
