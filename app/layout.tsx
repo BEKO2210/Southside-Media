@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     siteName: content.meta.siteName,
     title: content.meta.title,
     description: content.meta.description,
-    images: [{ url: "/media/hero.png", width: 1200, height: 630 }],
+    images: [{ url: "/media/hero.jpg", width: 1200, height: 630 }],
   },
   robots: { index: true, follow: true },
 };

@@ -2,6 +2,7 @@ import { Navbar } from "@/components/navbar";
 import { Hero } from "@/components/hero";
 import { TrustBar } from "@/components/trust-bar";
 import { Services } from "@/components/services";
+import { Showcase } from "@/components/showcase";
 import { Process } from "@/components/process";
 import { Pricing } from "@/components/pricing";
 import { WhyFixed } from "@/components/why-fixed";
@@ -19,6 +20,7 @@ export default function Home() {
         <Hero />
         <TrustBar />
         <Services />
+        <Showcase />
         <Process />
         <Pricing />
         <WhyFixed />

@@ -70,33 +70,62 @@
     "items": [
       {
         "icon": "Layout",
+        "image": "/media/icons/webdesign.png",
         "title": "Webdesign & Entwicklung",
         "text": "Individuelles, modernes Design und sauber gebaute Websites — responsive, schnell und auf Conversion optimiert."
       },
       {
         "icon": "PenTool",
+        "image": "/media/icons/branding.png",
         "title": "Logo & Branding",
         "text": "Eine klare Designsprache: Logo, Farben und Typografie, die Ihre Marke wiedererkennbar machen."
       },
       {
         "icon": "Search",
+        "image": "/media/icons/seo.png",
         "title": "SEO & Sichtbarkeit",
         "text": "On-Page-SEO inkl. Keywords, Google-Business-Profil und Performance — damit Kunden Sie finden."
       },
       {
         "icon": "ShieldCheck",
+        "image": "/media/icons/legal.png",
         "title": "Rechtssicherheit",
         "text": "Abmahnsichere Pflichtseiten, DSGVO-konformes Cookie-Consent und BFSG-Barrierefreiheits-Check."
       },
       {
         "icon": "ShoppingBag",
+        "image": "/media/icons/shop.png",
         "title": "Shop & Web-Apps",
         "text": "Online-Shops, Buchungssysteme und Integrationen (CRM, Newsletter) für anspruchsvolle Projekte."
       },
       {
         "icon": "LifeBuoy",
+        "image": "/media/icons/care.png",
         "title": "Wartung & Betreuung",
         "text": "Updates, Backups, Sicherheit und Monitoring im monatlich kündbaren Care-Paket."
+      }
+    ]
+  },
+
+  "showcase": {
+    "eyebrow": "Einblicke",
+    "heading": "So sehen Websites von Southside aus",
+    "subtitle": "Modern, schnell und auf Wirkung gebaut. Ein Eindruck unserer Designsprache — individuell auf jede Marke abgestimmt.",
+    "items": [
+      {
+        "image": "/media/showcase/desktop.jpg",
+        "title": "Desktop-Erlebnis",
+        "text": "Großzügige Layouts, klare Hierarchien und edle Details."
+      },
+      {
+        "image": "/media/showcase/mobile.jpg",
+        "title": "Mobil zuerst",
+        "text": "Perfekt bedienbar auf jedem Gerät — schnell und intuitiv."
+      },
+      {
+        "image": "/media/showcase/dashboard.jpg",
+        "title": "Web-Apps & Shops",
+        "text": "Funktionale Oberflächen für anspruchsvolle Projekte."
       }
     ]
   },

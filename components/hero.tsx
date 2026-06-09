@@ -10,13 +10,21 @@ export function Hero() {
 
   return (
     <section className="relative overflow-hidden pt-32 sm:pt-40">
-      {/* Hintergrund: Marken-Glow + Higgsfield-Visual */}
+      {/* Hintergrund: Marken-Glow + Higgsfield-Visual/Video */}
       <div className="pointer-events-none absolute inset-0 -z-10">
         <div className="absolute inset-0 bg-radial-glow" />
-        <div
-          className="absolute inset-0 bg-cover bg-center opacity-[0.22]"
-          style={{ backgroundImage: "url(/media/hero.png)" }}
-        />
+        {/* Higgsfield-Video-Loop, Bild als Poster/Fallback */}
+        <video
+          className="absolute inset-0 h-full w-full object-cover opacity-[0.28]"
+          autoPlay
+          muted
+          loop
+          playsInline
+          poster="/media/hero.jpg"
+          preload="metadata"
+        >
+          <source src="/media/hero-loop.mp4" type="video/mp4" />
+        </video>
         <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-brand/40 to-transparent" />
         <div className="absolute inset-0 bg-gradient-to-b from-transparent via-ink/40 to-ink" />
       </div>
