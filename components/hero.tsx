@@ -4,18 +4,18 @@ import Link from "next/link";
 import { motion } from "framer-motion";
 import { ArrowRight } from "lucide-react";
 import { content } from "@/lib/content";
+import { AuroraBackground } from "@/components/aurora-background";
 
 export function Hero() {
   const { hero } = content;
 
   return (
     <section className="relative overflow-hidden pt-32 sm:pt-40">
-      {/* Hintergrund: Marken-Glow + Higgsfield-Visual/Video */}
+      {/* Hintergrund: Higgsfield-Video + interaktive Aurora (Dev21) */}
       <div className="pointer-events-none absolute inset-0 -z-10">
-        <div className="absolute inset-0 bg-radial-glow" />
         {/* Higgsfield-Video-Loop, Bild als Poster/Fallback */}
         <video
-          className="absolute inset-0 h-full w-full object-cover opacity-[0.28]"
+          className="absolute inset-0 h-full w-full object-cover opacity-[0.18] mix-blend-screen"
           autoPlay
           muted
           loop
@@ -25,8 +25,10 @@ export function Hero() {
         >
           <source src="/media/hero-loop.mp4" type="video/mp4" />
         </video>
+        {/* Interaktive Aurora + Cursor-Spotlight + Gitter */}
+        <AuroraBackground />
         <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-brand/40 to-transparent" />
-        <div className="absolute inset-0 bg-gradient-to-b from-transparent via-ink/40 to-ink" />
+        <div className="absolute inset-0 bg-gradient-to-b from-transparent via-ink/30 to-ink" />
       </div>
 
       <div className="container-x pb-20 text-center sm:pb-28">

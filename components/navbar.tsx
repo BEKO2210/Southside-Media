@@ -35,8 +35,15 @@ export function Navbar() {
             className="group flex items-center gap-2.5 text-sm font-semibold tracking-[0.14em] text-white"
             aria-label={content.meta.siteName}
           >
-            <span className="inline-block h-2.5 w-2.5 rounded-full bg-brand-gradient shadow-brand-glow transition-transform group-hover:scale-125" />
-            {nav.logo}
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src="/media/logo.png"
+              alt={content.meta.siteName}
+              width={32}
+              height={32}
+              className="h-8 w-8 object-contain transition-transform group-hover:scale-110"
+            />
+            <span className="hidden sm:inline">{nav.logo}</span>
           </Link>
 
           {/* Desktop-Links */}

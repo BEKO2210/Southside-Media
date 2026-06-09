@@ -15,7 +15,14 @@ export function Footer() {
               href="/"
               className="flex items-center gap-2.5 text-sm font-semibold tracking-[0.14em] text-white"
             >
-              <span className="inline-block h-2.5 w-2.5 rounded-full bg-brand-gradient" />
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src="/media/logo.png"
+                alt={content.meta.siteName}
+                width={32}
+                height={32}
+                className="h-8 w-8 object-contain"
+              />
               {nav.logo}
             </Link>
             <p className="mt-4 max-w-xs text-sm leading-relaxed text-zinc-400">
